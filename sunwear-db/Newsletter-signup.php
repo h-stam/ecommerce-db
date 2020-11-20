@@ -3,7 +3,7 @@ $host = "localhost";
 $user = "stam11_eshop"; 
 $password = "password";  
 $dbase = "stam11_eshop"; 
-$table = "Newsletter";  
+$table = "Customer";  
 
 $first_name= $_POST['firstname']; 
 $last_name= $_POST['lastname']; 
