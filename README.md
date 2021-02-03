@@ -1,2 +1,11 @@
-Sunwear is a E-commerce Database Management System created by Michelle Hua and Hannah Stam.
-Sunwear-DB was created for COMP 4150 Phase III final project for the Fall 2020 term.
+#ecommerce-db
+
+E-commerce database system created for Advanced and Practical Database Systems course.
+Coded by H. Stam and M. Hua.
+
+E-commerce database system for swimwear clothing company M. Hua and I created and named Sunwear.
+The Sunwear website allows customers to add and remove items from a cart, as well as purchase items.
+The Sunwear website displays products and has a filtering system that is coded through advanced SQL queries.
+
+The database was create using phpMyAdmin and coded in SQL.
+The website was created using MyWeb software and coded in HTML, PHP, CSS, javascript, and Boostrap. 
